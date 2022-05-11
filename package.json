@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "remix-app-template",
-  "description": "",
-  "license": "",
+  "name": "Datazet",
+  "description": "Data integration bridge system for blockchain technology",
+  "license": "MI",
   "scripts": {
     "build": "cross-env NODE_ENV=production remix build",
     "dev": "cross-env NODE_ENV=development remix dev",
