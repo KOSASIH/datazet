@@ -1,0 +1,1 @@
+Datazet is open to the public and to collaborate in its development, please read the Code of Conduct and the available instructions.  All forms of contribution will be subject to and comply with applicable laws and regulations.
